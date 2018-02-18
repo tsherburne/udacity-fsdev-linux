@@ -23,3 +23,9 @@ sudo pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2
 ```
 http://ec2-52-1-33-79.compute-1.amazonaws.com/
 ```
+
+## Environment
+### Fullpath do DB
+```
+/home/ubuntu/website/udacity-fsdev-catalog/catalog.db
+```
