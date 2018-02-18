@@ -48,6 +48,6 @@ The URL for the catalog db application is:
 ```
 http://ec2-52-1-33-79.compute-1.amazonaws.com/
 ```
-SSH is enabled on port 2200 for the 'grader' user
+SSH is enabled on port 2200 for the 'grader' user.  The server IP: 52.1.33.79
 
 
